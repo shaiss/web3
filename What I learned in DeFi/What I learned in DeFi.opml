@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Mind Map</title>
+    </head>
+    <body>
+        <outline text="What I learned in Defi">
+            <outline text="Lending/Borrowing ">
+                <outline text="Shorting"></outline>
+                <outline text="Looping">
+                    <outline text="Diminishing Returns"></outline>
+                </outline>
+                <outline text="Risk Managment">
+                    <outline text="Managing Liquidations"></outline>
+                </outline>
+            </outline>
+            <outline text="Tomb forks">
+                <outline text="Pump and dumps"></outline>
+                <outline text="Emissions schedule"></outline>
+                <outline text="Genesis Pools"></outline>
+                <outline text="Penalties/Fees"></outline>
+            </outline>
+            <outline text="Bridging ">
+                <outline text="Role of a Bridge"></outline>
+                <outline text="Interoperability"></outline>
+                <outline text="Exploits"></outline>
+                <outline text="Types of Bridges"></outline>
+                <outline text="What happens
+when you bridge"></outline>
+                <outline text="Inter-operability"></outline>
+                <outline text="Challenges"></outline>
+            </outline>
+            <outline text="Leverage">
+                <outline text="Lending/Barrowing"></outline>
+                <outline text="Risk management ">
+                    <outline text="Volatility Is Amplified"></outline>
+                    <outline text="Managing Liquidations"></outline>
+                </outline>
+                <outline text="Yield Farming"></outline>
+            </outline>
+            <outline text="Yield farming ">
+                <outline text="High APR">
+                    <outline text="Chasing these can lead to getting rekt"></outline>
+                    <outline text="often unstable projects
+or reward tokens"></outline>
+                </outline>
+                <outline text="Imperment Loss"></outline>
+                <outline text="Stables Farming">
+                    <outline text="Use small leverage to boost gains"></outline>
+                </outline>
+                <outline text="Auto-Compounders">
+                    <outline text="More often better"></outline>
+                    <outline text="Obfuscates farm token"></outline>
+                    <outline text="Form of DCA"></outline>
+                </outline>
+            </outline>
+            <outline text="Staking">
+                <outline text="Liquid Staking"></outline>
+                <outline text="Locked Staking">
+                    <outline text="Unbounding Period"></outline>
+                </outline>
+            </outline>
+            <outline text="Legos">
+                <outline text="protocols build on each other"></outline>
+                <outline text="What's at the bottom of the stack"></outline>
+                <outline text="Learn development">
+                    <outline text="Automate strategies"></outline>
+                    <outline text="Understand code you're
+interacting with"></outline>
+                </outline>
+            </outline>
+            <outline text="Social Media ">
+                <outline text="Who to follow">
+                    <outline text="Threads diving into details"></outline>
+                    <outline text="Smaller number
+of followers"></outline>
+                    <outline text="Engages in replies"></outline>
+                    <outline text="Users data to
+backup their points"></outline>
+                    <outline text="They take responsibility for bad calls"></outline>
+                    <outline text="Doesn't call out others for selling"></outline>
+                    <outline text="Tips from Ugluuk">
+                        <outline text="Unfollow. They can only
+make it in a bull market">
+                            <outline text="Takes no responsibility for the
+calls made this year?"></outline>
+                            <outline text="Calls followers morons for not selling?"></outline>
+                            <outline text="Blames the market for everything?"></outline>
+                            <outline text="Says those who were
+bearish are lucky idiots?"></outline>
+                            <outline text="Talks like they are
+above everyone else?"></outline>
+                        </outline>
+                        <outline text="Look at their history, content and
+calls. If you like it give them a
+follow and pay attention">
+                            <outline text="Have adapted to the current market"></outline>
+                            <outline text="Still provide quality research"></outline>
+                            <outline text="Shares updates on projects they hold"></outline>
+                            <outline text="Admits mistakes and shares
+their thoughts on it"></outline>
+                        </outline>
+                    </outline>
+                </outline>
+                <outline text="Not to follow"></outline>
+                <outline text="Echo Chamber "></outline>
+            </outline>
+            <outline text="Portfolio management">
+                <outline text="Set take profit targets">
+                    <outline text="Set stop-loss targets"></outline>
+                </outline>
+                <outline text="Key Principals">
+                    <outline text="Have conviction on the project"></outline>
+                    <outline text="Look at passive income opportunities"></outline>
+                    <outline text="Chasing High APRs is
+distracting and will burn you"></outline>
+                    <outline text="Take profits into stables">
+                        <outline text="Blue Chips in the future"></outline>
+                        <outline text="Set goals to build motivation"></outline>
+                        <outline text="Seek Refuge in Stables"></outline>
+                        <outline text="Doesn't mean you don't
+support the project"></outline>
+                    </outline>
+                    <outline text="Track positions individually">
+                        <outline text="Treat each as an individual business"></outline>
+                        <outline text="Detailed tracking is key">
+                            <outline text="Not just for tax"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Create strategy and stick to
+it for a fixed period"></outline>
+                    <outline text="Focus on Revenue and cash flow">
+                        <outline text="Stables are key"></outline>
+                    </outline>
+                    <outline text="Close positions
+into Stables"></outline>
+                </outline>
+                <outline text="Challenges">
+                    <outline text="Automation is key goal">
+                        <outline text="Autocompounders help"></outline>
+                    </outline>
+                    <outline text="PnL tracking is hard"></outline>
+                    <outline text="Lending is a challenge w/o
+sizable base capital"></outline>
+                    <outline text="Identifying Pump Velocity"></outline>
+                </outline>
+                <outline text="Rebalancing">
+                    <outline text="Use metrics">
+                        <outline text="Time based"></outline>
+                        <outline text="Technical Indicators">
+                            <outline text="RSI"></outline>
+                            <outline text="MACD"></outline>
+                            <outline text="Difficult">
+                                <outline text="Means timing the market"></outline>
+                            </outline>
+                        </outline>
+                    </outline>
+                </outline>
+                <outline text="Perspectives">
+                    <outline text="Stay in the weed of tech"></outline>
+                    <outline text="Stay out of hype"></outline>
+                    <outline text="Stay out of Alpha for
+categories I don't care"></outline>
+                    <outline text="Maintain Birds eye view on
+Traditional Markets">
+                        <outline text="Coindesk"></outline>
+                        <outline text="Noh's podcast"></outline>
+                        <outline text="Hashoshi"></outline>
+                        <outline text="Coinbeure"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Areas I didn't get into">
+                <outline text="Options trading "></outline>
+                <outline text="Derivatives"></outline>
+                <outline text="Nft flipping ">
+                    <outline text="takes too much time"></outline>
+                    <outline text="requires understanding
+of the community"></outline>
+                    <outline text="Highly speculative"></outline>
+                    <outline text="FOMO driven for profit gains"></outline>
+                    <outline text="Critical to understand chain data"></outline>
+                </outline>
+                <outline text="Yield farming as
+a service"></outline>
+                <outline text="Titano/Nodes"></outline>
+                <outline text="Futures"></outline>
+                <outline text="Delta Neutral Strategies"></outline>
+            </outline>
+            <outline text="Investing Categories">
+                <outline text="Oracles"></outline>
+                <outline text="Bridges"></outline>
+                <outline text="L1/L2"></outline>
+                <outline text="GameFi"></outline>
+                <outline text="IDO">
+                    <outline text="Tend to dump after initial launch"></outline>
+                </outline>
+                <outline text="DeFi">
+                    <outline text="DEXs"></outline>
+                    <outline text="AMMs"></outline>
+                </outline>
+            </outline>
+            <outline text="Stages of a trader">
+                <outline text="Hope">
+                    <outline text="&quot;I should have
+sold sooner&quot;"></outline>
+                </outline>
+                <outline text="Euophoria">
+                    <outline text="Key words"></outline>
+                    <outline text="&quot;I Should have
+bought more&quot;">
+                        <outline text="Time to Sell!"></outline>
+                    </outline>
+                </outline>
+                <outline text="Complacency">
+                    <outline text="&quot;I should have
+sold sooner&quot;"></outline>
+                </outline>
+                <outline text="Anxiety"></outline>
+            </outline>
+            <outline text="Security">
+                <outline text="multi-layered contracts
+are exponential risk"></outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
